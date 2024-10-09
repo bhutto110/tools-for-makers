@@ -35,7 +35,7 @@ Here are some of the most important websites that I use on a daily basis:
 - [Clerk](https://clerk.com) - Free user auth.
 
 ## Open Source alternatives to XXX
-
+- [snapinsta.cc](https://snapinsta.cc) - SnapInsta
 - [supabase.com](https://supabase.com) - firebase
 - [documenso.com](https://documenso.com) - docu sign
 - [cal.com](https://cal.com) - calendly
